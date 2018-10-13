@@ -335,8 +335,8 @@
 						<div class="hover-bg">
 							<a href="<c:url value="/images/bj-qul-04.png"/>" title="质量管理体系认证证书" rel="prettyPhoto">
 								<div class="hover-text">
-									<h4>认证证书</h4>
-									<small>认证证书</small>
+									<h4>荣誉证书</h4>
+									<small>荣誉证书</small>
 								</div>
 								<img src="<c:url value="/images/bj-qul-04.png"/>" width="166px" height="206px" alt="认证证书" />
 							</a>
@@ -348,8 +348,8 @@
 						<div class="hover-bg">
 							<a href="<c:url value="/images/bj-qul-05.png"/>" title="IQNet" rel="prettyPhoto">
 								<div class="hover-text">
-									<h4>IQNet</h4>
-									<small>Certificate</small>
+									<h4>荣誉证书</h4>
+									<small>荣誉证书</small>
 								</div>
 								<img src="<c:url value="/images/bj-qul-05.png"/>" width="166px" height="206px" alt="IQNet" />
 							</a>
@@ -374,8 +374,8 @@
 						<div class="hover-bg">
 							<a href="<c:url value="/images/bj-qul-07.png"/>" title="质量管理体系认证证书" rel="prettyPhoto">
 								<div class="hover-text">
-									<h4>认证证书</h4>
-									<small>认证证书</small>
+									<h4>奖杯成就</h4>
+									<small>奖杯成就</small>
 								</div>
 								<img src="<c:url value="/images/bj-qul-07.png"/>" width="166px" height="206px" alt="认证证书" />
 							</a>
@@ -400,8 +400,8 @@
 						<div class="hover-bg">
 							<a href="<c:url value="/images/bj-qul-08.png"/>" title="实用新型专利证书" rel="prettyPhoto">
 								<div class="hover-text">
-									<h4>专利证书</h4>
-									<small>专利证书</small>
+									<h4>营业执照</h4>
+									<small>营业执照</small>
 								</div>
 								<img src="<c:url value="/images/bj-qul-08.png"/>" width="166px" height="206px" alt="专利证书" />
 							</a>
@@ -413,8 +413,8 @@
 						<div class="hover-bg">
 							<a href="<c:url value="/images/bj-qul-10.png"/>" title="质量管理体系认证证书" rel="prettyPhoto">
 								<div class="hover-text">
-									<h4>认证证书</h4>
-									<small>认证证书</small>
+									<h4>许可证书</h4>
+									<small>许可证书</small>
 								</div>
 								<img src="<c:url value="/images/bj-qul-10.png"/>" width="166px" height="206px" alt="认证证书" />
 							</a>
@@ -426,8 +426,8 @@
 						<div class="hover-bg">
 							<a href="<c:url value="/images/bj-qul-11.png"/>" title="IQNet" rel="prettyPhoto">
 								<div class="hover-text">
-									<h4>IQNet</h4>
-									<small>Certificate</small>
+									<h4>许可证书</h4>
+									<small>许可证书</small>
 								</div>
 								<img src="<c:url value="/images/bj-qul-11.png"/>" width="166px" height="206px" alt="IQNet" />
 							</a>
@@ -439,8 +439,8 @@
 						<div class="hover-bg">
 							<a href="<c:url value="/images/bj-qul-01.png"/>" title="实用新型专利证书" rel="prettyPhoto">
 								<div class="hover-text">
-									<h4>专利证书</h4>
-									<small>专利证书</small>
+									<h4>认证证书</h4>
+									<small>认证证书</small>
 								</div>
 								<img src="<c:url value="/images/bj-qul-01.png"/>" width="166px" height="206px" alt="专利证书" />
 							</a>
@@ -555,17 +555,17 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 col-sm-12">
-					<p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2018 Baijiang Pte. Ltd. | Designed and Created by : <a rel="nofollow" href="#" target="_parent">www.skymarlio.com</a></p>
-					<ul class="social-icon">
+					<p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2018 Baijiang Pte. Ltd. | Designed and Created by : <a rel="nofollow" href="#" target="_parent">易钛（上海）信息咨询有限公司</a></p>
+					<%-- <ul class="social-icon">
 						<li><a href="#" class="wow fadeInUp" data-wow-delay="1s"><div class="client"><img alt="logo" src="<c:url value="/img/clients/logo1.png"/>" width="85px" height="55px" /></div></a></li>
 						<li><a href="#" class="wow fadeInUp" data-wow-delay="1.3s"><div class="client"><img alt="logo" src="<c:url value="/img/clients/logo2.png"/>" width="85px" height="55px" /></div></a></li>
 						<li><a href="#" class="wow fadeInUp" data-wow-delay="1.6s"><div class="client"><img alt="logo" src="<c:url value="/img/clients/logo3.png"/>" width="85px" height="55px" /></div></a></li>
 						<li><a href="#" class="wow fadeInUp" data-wow-delay="1.9s"><div class="client"><img alt="logo" src="<c:url value="/img/clients/logo4.png"/>" width="85px" height="55px" /></div></a></li>
 						<li><a href="#" class="wow fadeInUp" data-wow-delay="2.2s"><div class="client"><img alt="logo" src="<c:url value="/img/clients/logo5.png"/>" width="85px" height="55px" /></div></a></li>
 						<li><a href="#" class="wow fadeInUp" data-wow-delay="2.5s"><div class="client"><img alt="logo" src="<c:url value="/img/clients/logo6.png"/>" width="85px" height="55px" /></div></a></li>
-					</ul>
+					</ul> --%>
 				</div>
-				<div class="col-md-12 col-sm-12">
+				<!-- <div class="col-md-12 col-sm-12">
 					<ul class="social-icon">
 						<li><a href="#" class="fa fa-facebook wow fadeInUp" data-wow-delay="1s"></a></li>
 						<li><a href="#" class="fa fa-twitter wow fadeInUp" data-wow-delay="1.3s"></a></li>
@@ -573,7 +573,7 @@
 						<li><a href="#" class="fa fa-behance wow fadeInUp" data-wow-delay="1.9s"></a></li>
 						<li><a href="#" class="fa fa-google-plus wow fadeInUp" data-wow-delay="2.2s"></a></li>
 					</ul>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</footer>

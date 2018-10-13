@@ -31,7 +31,7 @@
 						</div>
 						<div class="col-md-6">
 							<ul class="topright-info">
-								<li><i class="fa fa-phone"></i>&nbsp;021-84888110</li>
+								<li><i class="fa fa-phone"></i>&nbsp;021-68818288</li>
 							</ul>
 						</div>
 					</div>
@@ -176,7 +176,7 @@
 						<div class="widget">
 							<h4>地址详情</h4>
 							<address><strong>上海百匠企业管理有限公司</strong><br/>上海市浦东新区上南路3855号11号楼211室 (10110)<br/>如日商务园</address>
-							<p><i class="icon-phone"></i>(123) 456-7890 - (123) 555-7891<br><i class="icon-envelope-alt"></i>admin@mail.com</p>
+							<p><i class="icon-phone"></i>021- 68818288 - 13371928666<br><i class="icon-envelope-alt"></i>www.shbaijiang.cn</p>
 						</div>
 					</div>
 					<div class="col-lg-3">
