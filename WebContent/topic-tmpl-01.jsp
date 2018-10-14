@@ -168,11 +168,11 @@
 						<div class="widget">
 							<h4>友情链接</h4>
 							<ul class="link-list">
-								<li><a href="javascript:void(0);">百度企业管理</a></li>
-								<li><a href="javascript:void(0);">阿里企业管理</a></li>
-								<li><a href="javascript:void(0);">腾讯企业管理</a></li>
-								<li><a href="javascript:void(0);">京东企业管理</a></li>
-								<li><a href="javascript:void(0);">万达企业管理</a></li>
+								<li><a href="javascript:void(0);">半壶纱企业管理有限公司 </a></li>
+								<li><a href="javascript:void(0);">上海万吉投资有限公司 </a></li>
+								<li><a href="javascript:void(0);">现盛才财税</a></li>
+								<!-- <li><a href="javascript:void(0);">京东企业管理</a></li>
+								<li><a href="javascript:void(0);">万达企业管理</a></li> -->
 							</ul>
 						</div>
 					</div>
