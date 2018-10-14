@@ -31,7 +31,7 @@
 						</div>
 						<div class="col-md-6">
 							<ul class="topright-info">
-								<li><i class="fa fa-phone"></i>&nbsp;021-84888110</li>
+								<li><i class="fa fa-phone"></i>&nbsp;021-68818288</li>
 							</ul>
 						</div>
 					</div>
@@ -49,7 +49,7 @@
 					</div>
 					<div class="navbar-collapse collapse ">
 						<ul class="nav navbar-nav">
-							<li><a href="<c:url value="/"/>">站点首页</a></li>
+							<li><a href="<c:url value="/"/>">首页</a></li>
 							<li class="dropdown">
 								<a href="javascript:void(0);" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">工商服务</a>
 								<ul class="dropdown-menu">
@@ -103,7 +103,7 @@
 					<div class="col-lg-12">
 						<ul class="breadcrumb">
 							<li><a href="<c:url value="/"/>"><i class="fa fa-home"></i></a><i class="icon-angle-right"></i></li>
-							<li><a href="<c:url value="/app/cms/home#detail"/>">关于百匠</a><i class="icon-angle-right"></i></li>
+							<li><a href="javascript:void(0);">信息咨询</a><i class="icon-angle-right"></i></li>
 							<li class="active">${topic_title}</li>
 						</ul>
 					</div>
@@ -113,7 +113,22 @@
 		<section id="content">
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-12">
+					<div class="col-lg-4">
+						<aside class="left-sidebar">
+							<div class="widget">
+								<h5 class="widgetheading">流行标签</h5>
+								<ul class="tags">
+									<li><a href="javascript:void(0);">代理</a></li>
+									<li><a href="javascript:void(0);">低税</a></li>
+									<li><a href="javascript:void(0);">记账</a></li>
+									<li><a href="javascript:void(0);">注册</a></li>
+									<li><a href="javascript:void(0);">特殊</a></li>
+									<li><a href="javascript:void(0);">网络</a></li>
+								</ul>
+							</div>
+						</aside>
+					</div>
+					<div class="col-lg-8">
 						<h3>${topic_title}</h3>
 						<img src="${topic_pic}" alt="" class="img-responsive" />
 						${topic_p}
@@ -140,11 +155,11 @@
 						<div class="widget">
 							<h4>友情链接</h4>
 							<ul class="link-list">
-								<li><a href="javascript:void(0);">百度企业管理</a></li>
-								<li><a href="javascript:void(0);">阿里企业管理</a></li>
-								<li><a href="javascript:void(0);">腾讯企业管理</a></li>
-								<li><a href="javascript:void(0);">京东企业管理</a></li>
-								<li><a href="javascript:void(0);">万达企业管理</a></li>
+								<li><a href="javascript:void(0);">半壶纱企业管理有限公司 </a></li>
+								<li><a href="javascript:void(0);">上海万吉投资有限公司 </a></li>
+								<li><a href="javascript:void(0);">现盛才财税</a></li>
+								<!-- <li><a href="javascript:void(0);">京东企业管理</a></li>
+								<li><a href="javascript:void(0);">万达企业管理</a></li> -->
 							</ul>
 						</div>
 					</div>
@@ -152,7 +167,7 @@
 						<div class="widget">
 							<h4>地址详情</h4>
 							<address><strong>上海百匠企业管理有限公司</strong><br/>上海市浦东新区上南路3855号11号楼211室 (10110)<br/>如日商务园</address>
-							<p><i class="icon-phone"></i>(123) 456-7890 - (123) 555-7891<br><i class="icon-envelope-alt"></i>admin@mail.com</p>
+							<p><i class="icon-phone"></i>021- 68818288 - 13371928666<br><i class="icon-envelope-alt"></i>www.shbaijiang.cn</p>
 						</div>
 					</div>
 					<div class="col-lg-3">

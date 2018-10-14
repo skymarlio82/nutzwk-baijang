@@ -90,7 +90,7 @@
 									<li><a href="<c:url value="/app/cms/topic3?id=qyxxh"/>">企业信息化</a></li>
 								</ul>
 							</li>
-							<li><a href="<c:url value="/app/cms/home#contact"/>" class="">联系我们</a></li>
+							<li><a href="<c:url value="/app/cms/topic4"/>" class="">联系我们</a></li>
 						</ul>
 					</div>
 				</div>
