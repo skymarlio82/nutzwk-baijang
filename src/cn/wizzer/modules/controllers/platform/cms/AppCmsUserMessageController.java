@@ -2,6 +2,7 @@
 package cn.wizzer.modules.controllers.platform.cms;
 
 import cn.wizzer.common.base.Result;
+import cn.wizzer.common.util.DateUtil;
 import cn.wizzer.modules.models.sys.AppCmsUserMessageModel;
 import cn.wizzer.modules.services.cms.AppCmsUserMessageService;
 
@@ -29,6 +30,7 @@ public class AppCmsUserMessageController {
 		if (session.getAttribute("userInfo") == null) {
 			return Result.error(1, "请先登录再提交消息");
 		}
+		message.setCreatedAt(DateUtil.getDateTime());
 		appCmsUserMessageService.insert(message);
 		return Result.success("system.success");
 	}

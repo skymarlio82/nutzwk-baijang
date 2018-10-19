@@ -35,9 +35,8 @@ public class AppCmsUserMessageModel extends AppCmsModel implements Serializable 
     private String content = null;
 
 	@Column
-    @ColDefine(type=ColType.INT)
-	@Prev(els={ @EL("now()") })
-    private Integer createdAt = null;
+    @ColDefine(type=ColType.VARCHAR, width=20)
+    private String createdAt = null;
 
 	public String getId() {
 		return id;
@@ -71,11 +70,11 @@ public class AppCmsUserMessageModel extends AppCmsModel implements Serializable 
 		this.content = content;
 	}
 
-	public Integer getCreatedAt() {
+	public String getCreatedAt() {
 		return createdAt;
 	}
 
-	public void setCreatedAt(Integer createdAt) {
+	public void setCreatedAt(String createdAt) {
 		this.createdAt = createdAt;
 	}
 }

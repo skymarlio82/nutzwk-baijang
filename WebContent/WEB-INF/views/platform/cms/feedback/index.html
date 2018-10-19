@@ -1,0 +1,60 @@
+<% layout("/layouts/platform.html") { %>
+<section class="content-wrap bg-white">
+	<header class="header navbar bg-white shadow">
+		<div class="btn-group tool-button"></div>
+	</header>
+	<div class=panel-body style="padding-top: 50px;">
+		<div class="table-responsive no-border">
+			<table class="table table-bordered table-striped mg-t datatable">
+				<thead>
+					<tr>
+						<th>用户姓名</th>
+						<th>电子邮箱</th>
+						<th>消息内容</th>
+						<th>放送时间</th>
+					</tr>
+				</thead>
+			</table>
+		</div>
+	</div>
+</section>
+<script language="JavaScript">
+    var datatable = null;
+    function initDatatable() {
+        datatable = $('.datatable').DataTable({
+            "dom": '<"toolbar">frtip',
+            "searching":false,
+            "processing": false,
+            "serverSide": true,
+            "select": true,
+            "ordering": true,
+            "preDrawCallback": function () {
+                sublime.showLoadingbar($(".main-content"));
+            },
+            "drawCallback": function () {
+                sublime.closeLoadingbar($(".main-content"));
+            },
+            "ajax": {
+                "url": "${base}/platform/cms/feedback/data",
+                "type": "post",
+                "data": function (d) {
+
+                }
+            },
+            "order": [[3, "desc"]],
+            "columns": [
+                    {"data": "name", "bSortable": true},
+                    {"data": "email", "bSortable": true},
+                    {"data": "content", "bSortable": true},
+                    {"data": "createdAt", "bSortable": true}
+            ]
+        });
+        datatable.on('click', 'tr', function () {
+            $(this).toggleClass('selected');
+        });
+    }
+    $(function () {
+        initDatatable();
+    });
+</script>
+<% } %>
