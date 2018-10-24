@@ -16,7 +16,7 @@ public class AppCmsConstant {
 		htGsfu.put("cwzx", "财务咨询");
 		htGsfu.put("gsbg", "工商变更");
 		htGsfu.put("gszx", "公司注销");
-		htGsfu.put("sbdl", "社保代理");
+		htGsfu.put("rsdl", "人事代理");
 		htGsfu.put("sbzc", "商标注册");
 		htGsfu.put("zzdb", "资质代办");
 

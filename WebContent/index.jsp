@@ -50,7 +50,7 @@
 							<li><a href="<c:url value="/app/cms/topic?id=cwzx"/>">财务咨询</a></li>
 							<li><a href="<c:url value="/app/cms/topic?id=gsbg"/>">工商变更</a></li>
 							<li><a href="<c:url value="/app/cms/topic?id=gszx"/>">公司注销</a></li>
-							<li><a href="<c:url value="/app/cms/topic?id=sbdl"/>">社保代理</a></li>
+							<li><a href="<c:url value="/app/cms/topic?id=rsdl"/>">人事代理</a></li>
 							<li><a href="<c:url value="/app/cms/topic?id=sbzc"/>">商标注册</a></li>
 							<li><a href="<c:url value="/app/cms/topic?id=zzdb"/>">资质代办</a></li>
 						</ul>
@@ -118,7 +118,7 @@
 					${appCmsHomePagePb.txtHomeYzfuParagraph}
 				</div>
 				<div class="wow fadeInUp col-md-6 col-sm-6" data-wow-delay="0.9s">
-					<img src="${appCmsHomePagePb.srcHomeYzfuPic}" class="img-responsive" alt="Overview" />
+					<img src="${appCmsHomePagePb.srcHomeYzfuPic}" class="img-responsive" style="padding:75px 0 0 0;" alt="Overview" />
 				</div>
 			</div>
 			<br/><br/>
@@ -182,9 +182,9 @@
 							<div class="box">
 								<div class="aligncenter">
 									<div class="icon">
-										<a href="<c:url value="/app/cms/topic?id=sbdl"/>"><img src="<c:url value="/images/ico_sbdl.png"/>" alt="img" /></a>
+										<a href="<c:url value="/app/cms/topic?id=rsdl"/>"><img src="<c:url value="/images/ico_sbdl.png"/>" alt="img" /></a>
 									</div>
-									<h4>社保代理</h4>
+									<h4>人事代理</h4>
 								</div>
 							</div>
 						</div>
@@ -478,7 +478,7 @@
 					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-05.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 				<div class="wow fadeInUp col-xs-6 col-sm-2" data-wow-delay="1.8s">
-					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-06.png"/>" width="150px" height="85px" alt="sponsors" /></a>
+					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client_logo2.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 				<div class="wow fadeInUp col-xs-6 col-sm-2" data-wow-delay="2.1s">
 					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-07.png"/>" width="150px" height="85px" alt="sponsors" /></a>
@@ -493,7 +493,7 @@
 					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-10.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 				<div class="wow fadeInUp col-xs-6 col-sm-2" data-wow-delay="3.3s">
-					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-01.png"/>" width="150px" height="85px" alt="sponsors" /></a>
+					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client_logo2.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 				<div class="wow fadeInUp col-xs-6 col-sm-2" data-wow-delay="3.6s">
 					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-02.png"/>" width="150px" height="85px" alt="sponsors" /></a>

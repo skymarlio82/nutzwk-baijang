@@ -58,7 +58,7 @@
 									<li><a href="<c:url value="/app/cms/topic?id=cwzx"/>">财务咨询</a></li>
 									<li><a href="<c:url value="/app/cms/topic?id=gsbg"/>">工商变更</a></li>
 									<li><a href="<c:url value="/app/cms/topic?id=gszx"/>">公司注销</a></li>
-									<li><a href="<c:url value="/app/cms/topic?id=sbdl"/>">社保代理</a></li>
+									<li><a href="<c:url value="/app/cms/topic?id=rsdl"/>">人事代理</a></li>
 									<li><a href="<c:url value="/app/cms/topic?id=sbzc"/>">商标注册</a></li>
 									<li><a href="<c:url value="/app/cms/topic?id=zzdb"/>">资质代办</a></li>
 								</ul>
@@ -166,7 +166,7 @@
 					<div class="col-lg-3">
 						<div class="widget">
 							<h4>地址详情</h4>
-							<address><strong>上海百匠企业管理有限公司</strong><br/>上海市浦东新区上南路3855号11号楼211室 (10110)<br/>如日商务园</address>
+							<address><strong>百匠中小企业服务平台 – 万灵财税咨询（上海）有限公司</strong><br/>上海市浦东新区上南路3855号11号楼211室 (10110)<br/>如日商务园</address>
 							<p><i class="icon-phone"></i>021- 68818288 - 13371928666<br><i class="icon-envelope-alt"></i>www.shbaijiang.cn</p>
 						</div>
 					</div>
@@ -187,19 +187,10 @@
 			<div id="sub-footer">
 				<div class="container">
 					<div class="row">
-						<div class="col-lg-6">
+						<div class="col-lg-12">
 							<div class="copyright">
-								<p><span>&copy; Baijiang 2018 All right reserved. | Designed and Created by </span><a href="https://www.skymarlio.com" target="_blank">www.skymarlio.com</a></p>
+								<p><center><span>&copy; Copyright © 2018 Baijiang Pte. Ltd. | Designed and Created by </span><a href="https://www.skymarlio.com" target="_blank">易钛（上海）信息咨询有限公司</a></center></p>
 							</div>
-						</div>
-						<div class="col-lg-6">
-							<ul class="social-network">
-								<li><a href="#" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" data-placement="top" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-								<li><a href="#" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
-								<li><a href="#" data-placement="top" title="Google plus"><i class="fa fa-google-plus"></i></a></li>
-							</ul>
 						</div>
 					</div>
 				</div>
