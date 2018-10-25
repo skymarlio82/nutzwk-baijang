@@ -36,7 +36,7 @@
 					<span class="icon icon-bar"></span>
 				</button>
 				<a class="navbar-brand" href="javascript:void(0);">
-					<img src="<c:url value="/images/logo.png"/>" alt="" />
+					<img src="<c:url value="/images/logo-1.png"/>" alt="" />
 				</a>
 			</div>
 			<div class="collapse navbar-collapse">
@@ -294,12 +294,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="0.3s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-01.png"/>" title="质量管理体系认证证书" rel="prettyPhoto">
+							<a href="<c:url value="/images/1.png"/>" title="认证证书" rel="prettyPhoto">
 								<div class="hover-text">
 									<h4>认证证书</h4>
 									<small>认证证书</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-01.png"/>" width="166px" height="206px" alt="认证证书" />
+								<img src="<c:url value="/images/1.png"/>" width="166px" height="206px" alt="认证证书" />
 							</a>
 						</div>
 					</div>
@@ -307,12 +307,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="0.6s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-02.png"/>" title="IQNet" rel="prettyPhoto">
+							<a href="<c:url value="/images/2.png"/>" title="IQNet" rel="prettyPhoto">
 								<div class="hover-text">
 									<h4>IQNet</h4>
 									<small>Certificate</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-02.png"/>" width="166px" height="206px" alt="IQNet" />
+								<img src="<c:url value="/images/2.png"/>" width="166px" height="206px" alt="IQNet" />
 							</a>
 						</div>
 					</div>
@@ -320,12 +320,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="0.9s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-03.png"/>" title="实用新型专利证书" rel="prettyPhoto">
+							<a href="<c:url value="/images/3.png"/>" title="专利证书" rel="prettyPhoto">
 								<div class="hover-text">
 									<h4>专利证书</h4>
 									<small>专利证书</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-03.png"/>" width="166px" height="206px" alt="专利证书" />
+								<img src="<c:url value="/images/3.png"/>" width="166px" height="206px" alt="专利证书" />
 							</a>
 						</div>
 					</div>
@@ -333,12 +333,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="1.2s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-04.png"/>" title="质量管理体系认证证书" rel="prettyPhoto">
+							<a href="<c:url value="/images/4.png"/>" title="荣誉证书" rel="prettyPhoto">
 								<div class="hover-text">
 									<h4>荣誉证书</h4>
 									<small>荣誉证书</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-04.png"/>" width="166px" height="206px" alt="认证证书" />
+								<img src="<c:url value="/images/4.png"/>" width="166px" height="206px" alt="荣誉证书" />
 							</a>
 						</div>
 					</div>
@@ -346,12 +346,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="1.5s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-05.png"/>" title="IQNet" rel="prettyPhoto">
+							<a href="<c:url value="/images/5.png"/>" title="荣誉证书" rel="prettyPhoto">
 								<div class="hover-text">
 									<h4>荣誉证书</h4>
 									<small>荣誉证书</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-05.png"/>" width="166px" height="206px" alt="IQNet" />
+								<img src="<c:url value="/images/5.png"/>" width="166px" height="206px" alt="荣誉证书" />
 							</a>
 						</div>
 					</div>
@@ -359,12 +359,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="1.8s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-03.png"/>" title="实用新型专利证书" rel="prettyPhoto">
+							<a href="<c:url value="/images/6.png"/>" title="荣誉证书" rel="prettyPhoto">
 								<div class="hover-text">
-									<h4>专利证书</h4>
-									<small>专利证书</small>
+									<h4>荣誉证书</h4>
+									<small>荣誉证书</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-03.png"/>" width="166px" height="206px" alt="专利证书" />
+								<img src="<c:url value="/images/6.png"/>" width="166px" height="206px" alt="荣誉证书" />
 							</a>
 						</div>
 					</div>
@@ -372,12 +372,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="2.1s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-07.png"/>" title="质量管理体系认证证书" rel="prettyPhoto">
+							<a href="<c:url value="/images/7.jpg"/>" title="奖杯成就" rel="prettyPhoto">
 								<div class="hover-text">
 									<h4>奖杯成就</h4>
 									<small>奖杯成就</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-07.png"/>" width="166px" height="206px" alt="认证证书" />
+								<img src="<c:url value="/images/7.jpg"/>" width="166px" height="206px" alt="奖杯成就" />
 							</a>
 						</div>
 					</div>
@@ -385,12 +385,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="2.4s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-02.png"/>" title="IQNet" rel="prettyPhoto">
+							<a href="<c:url value="/images/8.png"/>" title="营业执照" rel="prettyPhoto">
 								<div class="hover-text">
-									<h4>IQNet</h4>
-									<small>Certificate</small>
+									<h4>营业执照</h4>
+									<small>营业执照</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-02.png"/>" width="166px" height="206px" alt="IQNet" />
+								<img src="<c:url value="/images/8.png"/>" width="166px" height="206px" alt="营业执照" />
 							</a>
 						</div>
 					</div>
@@ -398,12 +398,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="2.7s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-08.png"/>" title="实用新型专利证书" rel="prettyPhoto">
+							<a href="<c:url value="/images/9.png"/>" title="营业执照" rel="prettyPhoto">
 								<div class="hover-text">
 									<h4>营业执照</h4>
 									<small>营业执照</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-08.png"/>" width="166px" height="206px" alt="专利证书" />
+								<img src="<c:url value="/images/9.png"/>" width="166px" height="206px" alt="营业执照" />
 							</a>
 						</div>
 					</div>
@@ -411,12 +411,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="3.0s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-10.png"/>" title="质量管理体系认证证书" rel="prettyPhoto">
+							<a href="<c:url value="/images/10.png"/>" title="许可证书" rel="prettyPhoto">
 								<div class="hover-text">
 									<h4>许可证书</h4>
 									<small>许可证书</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-10.png"/>" width="166px" height="206px" alt="认证证书" />
+								<img src="<c:url value="/images/10.png"/>" width="166px" height="206px" alt="许可证书" />
 							</a>
 						</div>
 					</div>
@@ -424,12 +424,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="3.3s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-11.png"/>" title="IQNet" rel="prettyPhoto">
+							<a href="<c:url value="/images/11.jpg"/>" title="许可证书" rel="prettyPhoto">
 								<div class="hover-text">
 									<h4>许可证书</h4>
 									<small>许可证书</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-11.png"/>" width="166px" height="206px" alt="IQNet" />
+								<img src="<c:url value="/images/11.jpg"/>" width="166px" height="206px" alt="许可证书" />
 							</a>
 						</div>
 					</div>
@@ -437,12 +437,12 @@
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="3.6s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<a href="<c:url value="/images/bj-qul-01.png"/>" title="实用新型专利证书" rel="prettyPhoto">
+							<a href="<c:url value="/images/12.png"/>" title="会长单位" rel="prettyPhoto">
 								<div class="hover-text">
-									<h4>认证证书</h4>
-									<small>认证证书</small>
+									<h4>会长单位</h4>
+									<small>会长单位</small>
 								</div>
-								<img src="<c:url value="/images/bj-qul-01.png"/>" width="166px" height="206px" alt="专利证书" />
+								<img src="<c:url value="/images/12.png"/>" width="166px" height="206px" alt="会长单位" />
 							</a>
 						</div>
 					</div>
@@ -478,7 +478,7 @@
 					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-05.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 				<div class="wow fadeInUp col-xs-6 col-sm-2" data-wow-delay="1.8s">
-					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client_logo2.png"/>" width="150px" height="85px" alt="sponsors" /></a>
+					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-11.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 				<div class="wow fadeInUp col-xs-6 col-sm-2" data-wow-delay="2.1s">
 					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-07.png"/>" width="150px" height="85px" alt="sponsors" /></a>
@@ -493,7 +493,7 @@
 					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-10.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 				<div class="wow fadeInUp col-xs-6 col-sm-2" data-wow-delay="3.3s">
-					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client_logo2.png"/>" width="150px" height="85px" alt="sponsors" /></a>
+					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-12.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 				<div class="wow fadeInUp col-xs-6 col-sm-2" data-wow-delay="3.6s">
 					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-02.png"/>" width="150px" height="85px" alt="sponsors" /></a>
@@ -545,7 +545,7 @@
 				</div>
 				<div class="wow fadeInLeft col-md-4 col-sm-8 addr">
 					<h3>&nbsp;</h3>
-					<p><img src="<c:url value="/images/contact-img.jpg"/>" class="img-responsive" alt="img" /></p>	
+					<p><img src="<c:url value="/images/contact-img-1.png"/>" class="img-responsive" alt="img" /></p>	
 				</div>
 			</div>
 		</div>

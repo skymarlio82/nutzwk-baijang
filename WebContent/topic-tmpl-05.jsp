@@ -45,7 +45,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="<c:url value="/"/>"><img src="<c:url value="/images/logo.png"/>" alt="" width="60px" height="40px" /></a>
+						<a class="navbar-brand" href="<c:url value="/"/>"><img src="<c:url value="/images/logo-1.png"/>" alt="" width="60px" height="40px" /></a>
 					</div>
 					<div class="navbar-collapse collapse ">
 						<ul class="nav navbar-nav">
@@ -148,7 +148,7 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-3">
+					<!-- <div class="col-lg-3">
 						<div class="widget">
 							<h4>信息</h4>
 							<ul class="link-list">
@@ -159,6 +159,18 @@
 								<li><a href="javascript:void(0);">Contact us</a></li>
 							</ul>
 						</div>
+					</div> -->
+						<div class="col-lg-3">
+						<div class="widget">
+							<h4>关于百匠-万灵财税</h4>
+							<ul class="link-list">
+								<li><a href="<c:url value="/app/cms/topic1?id=gsjs"/>">公司资质</a></li>
+								<li><a href="<c:url value="/app/cms/topic1?id=tdjs"/>">团队介绍</a></li>
+								<li><a href="<c:url value="/app/cms/topic1?id=qyxx"/>">公司介绍</a></li>
+								<li><a href="<c:url value="/app/cms/topic1?id=ywjs"/>">企业形象</a></li>
+								<!-- <li><a href="javascript:void(0);">Contact us</a></li> -->
+							</ul>
+						</div>
 					</div>
 					<div class="col-lg-3">
 						<div class="widget">
@@ -166,7 +178,7 @@
 							<ul class="link-list">
 								<li><a href="javascript:void(0);">半壶纱企业管理有限公司 </a></li>
 								<li><a href="javascript:void(0);">上海万吉投资有限公司 </a></li>
-								<li><a href="javascript:void(0);">现盛才财税</a></li>
+								<li><a href="javascript:void(0);">现盛财税</a></li>
 								<!-- <li><a href="javascript:void(0);">京东企业管理</a></li>
 								<li><a href="javascript:void(0);">万达企业管理</a></li> -->
 							</ul>
@@ -176,7 +188,7 @@
 						<div class="widget">
 							<h4>地址详情</h4>
 							<address><strong>百匠中小企业服务平台 – 万灵财税咨询（上海）有限公司</strong><br/>上海市浦东新区上南路3855号11号楼211室 (10110)<br/>如日商务园</address>
-							<p><i class="icon-phone"></i>021- 68818288 - 13371928666<br><i class="icon-envelope-alt"></i>www.shbaijiang.cn</p>
+							<p><i class="icon-phone"></i>021- 68818288<br/>13371928666<br/><i class="icon-envelope-alt"></i>www.shbaijiang.cn</p>
 						</div>
 					</div>
 					<div class="col-lg-3">
