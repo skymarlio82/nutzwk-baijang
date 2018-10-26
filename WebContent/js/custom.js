@@ -61,12 +61,24 @@ $(document).ready(function() {
 		else
 			$(this).css('color','#ffffff');
 	});
+	
+	// HOME SLIDER & COURSES & CLIENTS
+	$('.home-slider').owlCarousel({
+		animateOut : 'fadeOut',
+		items : 1,
+		loop : false,
+		dots : false,
+		autoplayHoverPause : false,
+		autoplay : false
+	});
+	
+	$(".item-first").css({ "height": $(window).innerHeight() + "px" });
 
 	/* Parallax section
 	 * $('#venue').parallax("100%", 0.1);
 	   -----------------------------------------------*/
 	function initParallax() {
-		$('#intro').parallax("100%", 0.1);
+		$('#home').parallax("100%", 0.1);
 		$('#overview').parallax("100%", 0.1);
 		//$('#detail').parallax("100%", 0.1);
 		$('#speakers').parallax("100%", 0.1);

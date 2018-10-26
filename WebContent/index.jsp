@@ -41,7 +41,7 @@
 			</div>
 			<div class="collapse navbar-collapse">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="#" data-sect="#intro" class="">首页</a></li>
+					<li><a href="#" data-sect="#home" class="">首页</a></li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-sect="#overview" data-toggle="dropdown">工商服务</a>
 						<ul class="dropdown-menu">
@@ -95,15 +95,28 @@
 		</div>
 	</div>
 	<!-- INTRO SECTION -->
-	<section id="intro" class="parallax-section">
+	<!--<section id="intro" class="parallax-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 col-sm-12">
-					<!--
 					<h1 class="wow fadeInUp" data-wow-delay="0.9s"><c:out value="${appCmsHomePagePb.strHomeMainTitle}"/></h1>
 					<h3 class="wow bounceIn" data-wow-delay="1.6s"><c:out value="${appCmsHomePagePb.strHomeMainBanner}"/></h3>
 					<a href="javascript:void(0);" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs" data-toggle="modal" data-target="#login-frm" data-wow-delay="2.3s">用户登录</a>&nbsp;<a href="javascript:void(0);" class="btn btn-lg btn-danger smoothScroll wow fadeInUp" data-toggle="modal" data-target="#register-frm" data-wow-delay="2.3s">用户注册</a>
-					-->
+				</div>
+			</div>
+		</div>
+	</section>-->
+	<!-- HOME -->
+	<section id="home" class="parallax-section">
+		<div class="row">
+			<div class="owl-carousel owl-theme home-slider">
+				<div class="item item-first">
+					<div class="caption">
+						<div class="container">
+							<div class="col-md-6 col-sm-12">
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -261,7 +274,7 @@
 				<div class="col-md-12 col-sm-12 wow bounceIn">
 					<div class="section-title">
 						<h3>定制专属您的行业解决方案</h3>
-						<p>开公司难免要缴税  创业帮赋税不难免</p>
+						<p>开公司难免要缴税  百匠为您分忧解难</p>
 					</div>
 				</div>
 				<!-- Testimonial Owl Carousel section -->
@@ -288,7 +301,7 @@
 				<div class="wow bounceIn col-md-12 col-sm-12">
 					<div class="section-title">
 						<h3>百匠企业资质</h3>
-						<p>19年，累计获得殊荣百余项，始终秉持与中小企业共同成长的理念。</p>
+						<p>20年，累计获得殊荣百余项，始终秉持与中小企业共同成长的理念。</p>
 					</div>
 				</div>
 				<div class="wow fadeInUp col-sm-2" data-wow-delay="0.3s">
@@ -457,7 +470,7 @@
 				<div class="col-md-12 col-sm-12 wow bounceIn">
 					<div class="section-title">
 						<h3>优质合作伙伴</h3>
-						<p>我们诚邀您成为 Facebook 的中国区优质广告合作伙伴，在众多的同行中脱颖而出，成为当之无愧的 Facebook 营销专家，为顾客提供更优质的服务，帮助他们开拓国际市场。</p>
+						<p>百匠已经累计服务上万家企业，在业内有着极其高的声誉。</p>
 					</div>
 				</div>
 			</div>
@@ -507,7 +520,7 @@
 			<div class="container">
 				<div class="wow fadeInUp col-md-8 col-md-offset-2 section-title" data-wow-delay="0.6s">
 					<h3>与我们保持联系</h3>
-					<p>“个人信息”是指客户递交申请资料中记载的有关个人的一切信息，包括但不限于姓名、性别、出生日期、出生地、婚姻状况、国籍、护照信息、联系电话、个人疾病记录、个人犯罪记录、家庭住址、工作地点、家庭成员信息、视频录像、电话录音、邮件记录等可能涉及个人隐私的信息。</p>
+					<p>请提交您的需求，我们专业的工作人员会与您第一时间取得联系。</p>
 				</div>
 				<div class="wow fadeInUp col-md-8 col-md-offset-2" data-wow-delay="0.9s">
 					<form id="messageFrm" name="messageFrm" action="<c:url value="/app/cms/usermessage/insertNew"/>" method="post" novalidate>
@@ -520,7 +533,7 @@
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<input id="msgEmail" name="msgEmail" type="email" class="form-control" placeholder="电子邮件" required="required" />
+									<input id="msgEmail" name="msgEmail" type="email" class="form-control" placeholder="手机号码" required="required" />
 									<p class="help-block text-danger"></p>
 								</div>
 							</div>

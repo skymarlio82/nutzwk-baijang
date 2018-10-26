@@ -22,4 +22,12 @@ public class AppCmsHtmlUtil {
 		}
 		return "<p>" + htmlContent.trim() + "</p>";
 	}
+	
+	public static String appendImgResponsive(String htmlContent) {
+		if (htmlContent == null || htmlContent.trim().equals("")) {
+			return "";
+		}
+		String result = htmlContent.replaceAll("<img", "<img class=\"img-responsive\"");
+		return result;
+	}
 }

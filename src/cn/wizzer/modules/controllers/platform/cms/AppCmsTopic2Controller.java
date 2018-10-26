@@ -28,6 +28,6 @@ public class AppCmsTopic2Controller {
 		Cms_article cms_article = cmsArticleService.fetch(Cnd.where("title", "=", AppCmsConstant.htZscq.get(id)));
 		httpRequest.setAttribute("topic_title", cms_article.getTitle());
 		httpRequest.setAttribute("topic_pic", cms_article.getPicurl());
-		httpRequest.setAttribute("topic_p", AppCmsHtmlUtil.appendParagraph(cms_article.getContent()));
+		httpRequest.setAttribute("topic_p", AppCmsHtmlUtil.appendImgResponsive(cms_article.getContent()));
 	}
 }
