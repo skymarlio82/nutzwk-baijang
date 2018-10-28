@@ -509,7 +509,7 @@
 					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-12.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 				<div class="wow fadeInUp col-xs-6 col-sm-2" data-wow-delay="3.6s">
-					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-02.png"/>" width="150px" height="85px" alt="sponsors" /></a>
+					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-06.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 			</div>
 		</div>
