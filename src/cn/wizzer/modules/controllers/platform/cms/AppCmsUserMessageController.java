@@ -27,9 +27,9 @@ public class AppCmsUserMessageController {
 	@At("/insertNew")
 	@Ok("json")
 	public Object insertNew(@Param("..") AppCmsUserMessageModel message, HttpSession session) {
-		if (session.getAttribute("userInfo") == null) {
-			return Result.error(1, "请先登录再提交消息");
-		}
+//		if (session.getAttribute("userInfo") == null) {
+//			return Result.error(1, "请先登录再提交消息");
+//		}
 		message.setCreatedAt(DateUtil.getDateTime());
 		appCmsUserMessageService.insert(message);
 		return Result.success("system.success");

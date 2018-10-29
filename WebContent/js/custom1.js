@@ -169,7 +169,7 @@ $(function () {
 
 				
 	//search
-	new UISearch( document.getElementById( 'sb-search' ) );
+	//new UISearch( document.getElementById( 'sb-search' ) );
 	
 	//cube portfolio
 	    var gridContainer = $('#grid-container'),

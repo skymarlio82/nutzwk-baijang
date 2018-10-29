@@ -7,7 +7,7 @@
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
-	<link rel="shortcut icon" href="<c:url value="/favicon.ico"/>" />
+	<link rel="shortcut icon" href="<c:url value="/favicon-16.ico"/>" />
 	<link type="text/css" rel="stylesheet" href="<c:url value="/css/bootstrap.min.css"/>" />
 	<link type="text/css" rel="stylesheet" href="<c:url value="/css/animate.css"/>" />
 	<link type="text/css" rel="stylesheet" href="<c:url value="/css/font-awesome.min.css"/>" />
@@ -236,10 +236,10 @@
 						<p>了解关于百匠主体业务和范围</p>
 					</div>
 				</div>
-				<div class="wow fadeInLeft col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s">
+				<div class="wow fadeInLeft col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.9s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<div class="img-zoom-wrap"><a href="<c:url value="/app/cms/topic1?id=gsjs"/>"><img src="<c:url value="/img/portfolio/01-small.jpg"/>" alt=""></a></div>
+							<div class="img-zoom-wrap"><a href="<c:url value="/app/cms/topic1?id=gsjs"/>"><img src="<c:url value="/img/portfolio/03-small.jpg"/>" alt=""></a></div>
 						</div>
 					</div>
 				</div>
@@ -250,17 +250,17 @@
 						</div>
 					</div>
 				</div>
-				<div class="wow fadeInLeft col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.9s">
-					<div class="portfolio-item">
-						<div class="hover-bg">
-							<div class="img-zoom-wrap"><a href="<c:url value="/app/cms/topic1?id=qyxx"/>"><img src="<c:url value="/img/portfolio/03-small.jpg"/>" alt=""></a></div>
-						</div>
-					</div>
-				</div>
 				<div class="wow fadeInLeft col-sm-3 col-md-3 col-lg-3" data-wow-delay="1.2s">
 					<div class="portfolio-item">
 						<div class="hover-bg">
-							<div class="img-zoom-wrap"><a href="<c:url value="/app/cms/topic1?id=ywjs"/>"><img src="<c:url value="/img/portfolio/04-small.jpg"/>" alt=""></a></div>
+							<div class="img-zoom-wrap"><a href="<c:url value="/app/cms/topic1?id=qyxx"/>"><img src="<c:url value="/img/portfolio/04-small.jpg"/>" alt=""></a></div>
+						</div>
+					</div>
+				</div>
+				<div class="wow fadeInLeft col-sm-3 col-md-3 col-lg-3" data-wow-delay="0.3s">
+					<div class="portfolio-item">
+						<div class="hover-bg">
+							<div class="img-zoom-wrap"><a href="<c:url value="/app/cms/topic1?id=ywjs"/>"><img src="<c:url value="/img/portfolio/01-small.jpg"/>" alt=""></a></div>
 						</div>
 					</div>
 				</div>
@@ -509,7 +509,7 @@
 					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-12.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 				<div class="wow fadeInUp col-xs-6 col-sm-2" data-wow-delay="3.6s">
-					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-06.png"/>" width="150px" height="85px" alt="sponsors" /></a>
+					<a href="javascript:void(0);"><img src="<c:url value="/img/clients/client-13.png"/>" width="150px" height="85px" alt="sponsors" /></a>
 				</div>
 			</div>
 		</div>

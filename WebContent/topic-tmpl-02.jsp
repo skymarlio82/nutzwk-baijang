@@ -7,7 +7,7 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
-	<link rel="shortcut icon" href="<c:url value="/favicon.ico"/>" />
+	<link rel="shortcut icon" href="<c:url value="/favicon-16.ico"/>" />
 	<!-- css -->
 	<link type="text/css" rel="stylesheet" href="<c:url value="/css/bootstrap.min.css"/>" />
 	<link type="text/css" rel="stylesheet" href="<c:url value="/css/cubeportfolio.min.css"/>" />
@@ -139,27 +139,14 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<!-- <div class="col-lg-3">
-						<div class="widget">
-							<h4>信息</h4>
-							<ul class="link-list">
-								<li><a href="javascript:void(0);">Press release</a></li>
-								<li><a href="javascript:void(0);">Terms and conditions</a></li>
-								<li><a href="javascript:void(0);">Privacy policy</a></li>
-								<li><a href="javascript:void(0);">Career center</a></li>
-								<li><a href="javascript:void(0);">Contact us</a></li>
-							</ul>
-						</div>
-					</div> -->
-						<div class="col-lg-3">
+					<div class="col-lg-3">
 						<div class="widget">
 							<h4>关于百匠-万灵财税</h4>
 							<ul class="link-list">
-								<li><a href="<c:url value="/app/cms/topic1?id=gsjs"/>">公司资质</a></li>
+								<li><a href="<c:url value="/app/cms/topic1?id=gsjs"/>">公司介绍</a></li>
 								<li><a href="<c:url value="/app/cms/topic1?id=tdjs"/>">团队介绍</a></li>
-								<li><a href="<c:url value="/app/cms/topic1?id=qyxx"/>">公司介绍</a></li>
-								<li><a href="<c:url value="/app/cms/topic1?id=ywjs"/>">企业形象</a></li>
-								<!-- <li><a href="javascript:void(0);">Contact us</a></li> -->
+								<li><a href="<c:url value="/app/cms/topic1?id=qyxx"/>">企业形象</a></li>
+								<li><a href="<c:url value="/app/cms/topic1?id=ywjs"/>">业务介绍</a></li>
 							</ul>
 						</div>
 					</div>
@@ -167,18 +154,18 @@
 						<div class="widget">
 							<h4>友情链接</h4>
 							<ul class="link-list">
-								<li><a href="javascript:void(0);">半壶纱企业管理有限公司 </a></li>
-								<li><a href="javascript:void(0);">上海万吉投资有限公司 </a></li>
-								<li><a href="javascript:void(0);">现盛财税</a></li>
-								<!-- <li><a href="javascript:void(0);">京东企业管理</a></li>
-								<li><a href="javascript:void(0);">万达企业管理</a></li> -->
+								<li><a href="http://www.sgs.gov.cn/shaic/">上海市工商行政管理局</a></li>
+								<li><a href="http://www.tax.sh.gov.cn/pub/">国家税务总局上海市税务局</a></li>
+								<li><a href="http://www.tax.sh.gov.cn/fxtax/">国家税务总局上海市奉贤区税务局</a></li>
+								<li><a href="http://www.sipa.gov.cn/zscqj/index.html">上海市知识产权局</a></li>
+								<li><a href="http://www.fengxian.gov.cn/czj/dtzx/002001/">上海市奉贤区财政局</a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="col-lg-3">
 						<div class="widget">
 							<h4>地址详情</h4>
-							<address><strong>百匠中小企业服务平台 – 万灵财税咨询（上海）有限公司</strong><br/>上海市浦东新区上南路3855号11号楼211室 (10110)<br/>如日商务园</address>
+							<address><strong>百匠中小企业服务平台 – 万灵财税咨询（上海）有限公司</strong><br/>上海市浦东新区上南路3855号11号楼211室<br/>如日商务园</address>
 							<p><i class="icon-phone"></i>021- 68818288<br/>13371928666<br/><i class="icon-envelope-alt"></i>www.shbaijiang.cn</p>
 						</div>
 					</div>
