@@ -78,7 +78,7 @@ $(document).ready(function() {
 	 * $('#venue').parallax("100%", 0.1);
 	   -----------------------------------------------*/
 	function initParallax() {
-		$('#home').parallax("100%", 0.1);
+		//$('#home').parallax("100%", 0.1);
 		$('#overview').parallax("100%", 0.1);
 		//$('#detail').parallax("100%", 0.1);
 		$('#speakers').parallax("100%", 0.1);
@@ -91,16 +91,14 @@ $(document).ready(function() {
 
 	/* Owl Carousel
 	   -----------------------------------------------*/
-	$(document).ready(function () {
-		$("#owl-speakers").owlCarousel({
-			autoPlay : 1500,
-			items : 4,
-			itemsDesktop : [ 1199, 2 ],
-			itemsDesktopSmall : [ 979, 1 ],
-			itemsTablet : [ 768, 1 ],
-			itemsTabletSmall : [ 985, 2 ],
-			itemsMobile : [ 479, 1 ]
-		});
+	$("#owl-speakers").owlCarousel({
+		autoPlay : 1500,
+		items : 4,
+		itemsDesktop : [ 1199, 2 ],
+		itemsDesktopSmall : [ 979, 1 ],
+		itemsTablet : [ 768, 1 ],
+		itemsTabletSmall : [ 985, 2 ],
+		itemsMobile : [ 479, 1 ]
 	});
 
 	/* Back top

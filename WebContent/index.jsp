@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>百匠企管 - 为您服务</title>
+	<title>百匠 - 万灵财税咨询（上海）有限公司</title>
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
@@ -107,16 +107,11 @@
 		</div>
 	</section>-->
 	<!-- HOME -->
-	<section id="home" class="parallax-section">
-		<div class="row">
+	<section id="home">
+		<div class="row" style="margin:0 0 0 0">
 			<div class="owl-carousel owl-theme home-slider">
 				<div class="item item-first">
-					<div class="caption">
-						<div class="container">
-							<div class="col-md-6 col-sm-12">
-							</div>
-						</div>
-					</div>
+					
 				</div>
 			</div>
 		</div>
@@ -568,7 +563,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 col-sm-12">
-					<p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 2018 Baijiang Pte. Ltd. | Designed and Created by : <a rel="nofollow" href="#" target="_parent">易钛（上海）信息咨询有限公司</a></p>
+					<p class="wow fadeInUp" data-wow-delay="0.6s">Copyright &copy; 百匠 - 万灵财税咨询（上海）有限公司 | <a rel="nofollow" href="http://www.miitbeian.gov.cn" target="_parent">沪ICP备18040351号</a> | Designed and Created by : <a rel="nofollow" href="#" target="_parent">易钛（上海）信息咨询有限公司</a></p>
 					<%-- <ul class="social-icon">
 						<li><a href="#" class="wow fadeInUp" data-wow-delay="1s"><div class="client"><img alt="logo" src="<c:url value="/img/clients/logo1.png"/>" width="85px" height="55px" /></div></a></li>
 						<li><a href="#" class="wow fadeInUp" data-wow-delay="1.3s"><div class="client"><img alt="logo" src="<c:url value="/img/clients/logo2.png"/>" width="85px" height="55px" /></div></a></li>

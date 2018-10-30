@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>百匠企管</title>
+	<title>百匠 - 万灵财税咨询（上海）有限公司</title>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
@@ -163,9 +163,9 @@
 						<div class="widget">
 							<h4>友情链接</h4>
 							<ul class="link-list">
-								<li><a href="http://www.sgs.gov.cn/shaic/">上海市工商行政管理局</a></li>
 								<li><a href="http://www.tax.sh.gov.cn/pub/">国家税务总局上海市税务局</a></li>
 								<li><a href="http://www.tax.sh.gov.cn/fxtax/">国家税务总局上海市奉贤区税务局</a></li>
+								<li><a href="http://www.sgs.gov.cn/shaic/">上海市工商行政管理局</a></li>
 								<li><a href="http://www.sipa.gov.cn/zscqj/index.html">上海市知识产权局</a></li>
 								<li><a href="http://www.fengxian.gov.cn/czj/dtzx/002001/">上海市奉贤区财政局</a></li>
 							</ul>
@@ -174,7 +174,7 @@
 					<div class="col-lg-3">
 						<div class="widget">
 							<h4>地址详情</h4>
-							<address><strong>百匠中小企业服务平台 – 万灵财税咨询（上海）有限公司</strong><br/>上海市浦东新区上南路3855号11号楼211室<br/>如日商务园</address>
+							<address><strong>百匠中小企业服务平台 – 万灵财税咨询（上海）有限公司</strong><br/>上海市浦东新区上南路3855号11号楼211室 如日商务园</address>
 							<p><i class="icon-phone"></i>021- 68818288<br/>13371928666<br/><i class="icon-envelope-alt"></i>www.shbaijiang.cn</p>
 						</div>
 					</div>
@@ -197,7 +197,7 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="copyright">
-								<p><center><span>&copy; Copyright © 2018 Baijiang Pte. Ltd. | Designed and Created by </span><a href="https://www.skymarlio.com" target="_blank">易钛（上海）信息咨询有限公司</a></center></p>
+								<p><center>Copyright &copy; 百匠 - 万灵财税咨询（上海）有限公司 | <a rel="nofollow" href="http://www.miitbeian.gov.cn" target="_parent">沪ICP备18040351号</a> | Designed and Created by : <a rel="nofollow" href="#" target="_parent">易钛（上海）信息咨询有限公司</a></center></p>
 							</div>
 						</div>
 					</div>
